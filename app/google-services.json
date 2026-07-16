@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116861888830",
+    "project_id": "routemate-b7fb4",
+    "storage_bucket": "routemate-b7fb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116861888830:android:cc5960f1c6173e4261646f",
+        "android_client_info": {
+          "package_name": "com.example.routemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqaBHEGgd85gYsUMU0T9OiCQHBh_SqS34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
